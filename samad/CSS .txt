@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="970" startPos="280" endPos="201" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="-1" userReadOnly="no" filename="C:\xampp\htdocs\azroy\taaruf.html" backupFilePath="" originalFileLastModifTimestamp="1597806140" originalFileLastModifTimestampHigh="31074277" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="740" startPos="82" endPos="82" selMode="0" offset="0" wrapCount="1" lang="PHP" encoding="-1" userReadOnly="no" filename="C:\xampp\htdocs\azroy\jamal.php" backupFilePath="" originalFileLastModifTimestamp="1522895665" originalFileLastModifTimestampHigh="31071469" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2312" startPos="349" endPos="349" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="-1" userReadOnly="no" filename="C:\xampp\htdocs\azroy\index.html" backupFilePath="" originalFileLastModifTimestamp="-248847348" originalFileLastModifTimestampHigh="31072878" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="48" xOffset="0" scrollWidth="1305" startPos="194" endPos="194" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="-1" userReadOnly="no" filename="C:\xampp\htdocs\azroy\lab2.html" backupFilePath="" originalFileLastModifTimestamp="-1457668883" originalFileLastModifTimestampHigh="31074290" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
